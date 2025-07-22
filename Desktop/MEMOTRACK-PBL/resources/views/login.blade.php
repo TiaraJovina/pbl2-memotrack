@@ -15,7 +15,7 @@
     </style>
 </head>
 <body class="bg-gray-100 flex items-center justify-center min-h-screen">
-    <!-- Login Section -->
+    <!-- Login Section---- -->
     <section class="login-section w-full max-w-md mx-auto p-6 rounded-lg shadow-md bg-white">
         <div class="text-center mb-8">
             <h1 class="text-3xl font-bold text-blue-500">MemoTrack</h1>
